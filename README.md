@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andreitom1
 - 👀 I’m interested in making fun stuff for me
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate with nobody
 - 📫 How to reach me (what is this?)
 - 😄 Pronouns: he/him
