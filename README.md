@@ -1,8 +1,8 @@
 # About me!
-- 👋 Hi, I’m @Andreitom1
-- 👀 I’m interested in making fun stuff for me
-- 🌱 I’m currently learning Python and Lua.
+- 👋 Hi, I’m @Andreitom1 (Andrei Tom)
+- 👀 I’m interested in making PenguinMod extensions!
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate with nobody
-- 📫 How to reach me (what is this?)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: if you call my YouTube channel "Pou Channel", it's embarrassing, you should call my YouTube channel "Tom Tom Productions"
+- ⚡ Fun fact: if you call my YouTube channel "Pou Channel", it's embarrassing, you should call my YouTube channel "Tom Tom Productions"!
+- 🦜 I like budgies.
