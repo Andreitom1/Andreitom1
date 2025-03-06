@@ -1,8 +1,4 @@
-# About me!
-- 👋 Hi, I’m @Andreitom1 (Andrei Tom)
-- 👀 I’m interested in making PenguinMod extensions!
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate with nobody
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: if you call my YouTube channel "Pou Channel", it's embarrassing, you should call my YouTube channel "Tom Tom Productions"!
-- 🦜 I like budgies.
+# Welcome to Andreitom1!
+Socials: [YouTube](https://www.youtube.com/channel/UCxIfytRQpVAF4BzsJEWASfA), [Scratch](https://scratch.mit.edu/users/TomTomProd/), [Duolingo](https://www.duolingo.com/profile/Andreitom3)
+
+![welcome image](welcome.png)
